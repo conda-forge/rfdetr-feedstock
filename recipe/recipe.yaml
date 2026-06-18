@@ -30,7 +30,7 @@ requirements:
     - pydantic
     - supervision
     - requests
-    - pydeprecate >=0.3,<0.6
+    - pydeprecate >=0.6.0.post0,<0.8
 
 tests:
   - python:
