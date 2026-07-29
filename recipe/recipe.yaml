@@ -1,5 +1,5 @@
 context:
-  version: "1.8.3"
+  version: "1.9.0"
 
 package:
   name: rfdetr
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/rfdetr/rfdetr-${{ version }}.tar.gz
-  sha256: a6306654a1566f126cb1bc511d5f2f87f04fb3b98b50af4bc3d7e9743766eafc
+  sha256: f42293527ffebe2f0599602f66c5604a73af37b05055a1fbc512f01061fe75c3
 
 build:
   noarch: python
